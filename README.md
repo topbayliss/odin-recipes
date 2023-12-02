@@ -1,3 +1,3 @@
-This is my second attempt setting up a repo for this project. I'm not sure where I failed last time but with this new login I've studied the git commands and commits and things are starting to make a little more sense. 
+Currently struggling to link a photo to a webpage from a parent directory using './'.
 
-Hopefully when I commit this I'll have a fairly respectable looking webpage to display a few of my favorite recipes. 
+I'm hoping to save my work and come back later, so if this commits properly I'm doing fine.
